@@ -27,7 +27,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 st.logo("./assets/logo/hotel-ramatou-logo.png")
 
-#st.image("./assets/im/cover/Plage.jpg", use_container_width=True)
 st.image("https://res.cloudinary.com/ddhhnrgcs/image/upload/w_800,h_400,c_fill,r_20,q_auto,f_auto/v1740948700/f79e996d_1_z0hntx.jpg", use_container_width=True)
 
 # Application Header
